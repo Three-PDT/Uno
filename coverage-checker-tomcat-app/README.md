@@ -3,6 +3,9 @@ Coverage checker using embedded tomcat app
 Reads maintenance data from DB
 Reads copy from messages properties
 
+## Running
+mvn spring-boot:run
+
 ## TODO
 locationValue
 error
